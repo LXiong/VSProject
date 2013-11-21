@@ -1,0 +1,4 @@
+/*
+	Facial Recognition class implementation
+*/
+
